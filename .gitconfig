@@ -1,0 +1,5 @@
+[user]
+	name = Maks-Nikodimov
+	email = 777.812@mail.ru
+[alias]
+	history = log --graph
